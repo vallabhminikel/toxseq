@@ -1,0 +1,181 @@
+aso	code	readout	value
+ASO4	Ctrl ASO4	a_fob	2
+ASO4	Ctrl ASO4	a_fob	2
+ASO4	Ctrl ASO4	a_fob	2
+ASO4	Ctrl ASO4	a_fob	0
+ASO4	Ctrl ASO4	max_d_fob	0
+ASO4	Ctrl ASO4	max_d_fob	0
+ASO4	Ctrl ASO4	max_d_fob	0
+ASO4	Ctrl ASO4	max_d_fob	0
+ASO4	Ctrl ASO4	cord_iba1	0
+ASO4	Ctrl ASO4	cord_iba1	0
+ASO4	Ctrl ASO4	cord_iba1	0
+ASO4	Ctrl ASO4	cord_iba1	0
+ASO4	Ctrl ASO4	brain_iba1	0
+ASO4	Ctrl ASO4	brain_iba1	0
+ASO4	Ctrl ASO4	brain_iba1	0
+ASO4	Ctrl ASO4	brain_iba1	0
+ASO4	Ctrl ASO4	cerebellum_iba1	0
+ASO4	Ctrl ASO4	cerebellum_iba1	0
+ASO4	Ctrl ASO4	cerebellum_iba1	0
+ASO4	Ctrl ASO4	cerebellum_iba1	0
+ASO4	Ctrl ASO4	cerebellum_calbindin	0
+ASO4	Ctrl ASO4	cerebellum_calbindin	0
+ASO4	Ctrl ASO4	cerebellum_calbindin	0
+ASO4	Ctrl ASO4	cerebellum_calbindin	0
+ASO1	ASO1	a_fob	0
+ASO1	ASO1	a_fob	0
+ASO1	ASO1	a_fob	3
+ASO1	ASO1	a_fob	3
+ASO1	ASO1	max_d_fob	0
+ASO1	ASO1	max_d_fob	0
+ASO1	ASO1	max_d_fob	1
+ASO1	ASO1	max_d_fob	0
+ASO1	ASO1	cord_iba1	0
+ASO1	ASO1	cord_iba1	1
+ASO1	ASO1	cord_iba1	1
+ASO1	ASO1	brain_iba1	0
+ASO1	ASO1	brain_iba1	0
+ASO1	ASO1	brain_iba1	0
+ASO1	ASO1	brain_iba1	0
+ASO1	ASO1	cerebellum_iba1	0
+ASO1	ASO1	cerebellum_iba1	0
+ASO1	ASO1	cerebellum_iba1	1
+ASO1	ASO1	cerebellum_iba1	0
+ASO1	ASO1	cerebellum_calbindin	0
+ASO1	ASO1	cerebellum_calbindin	0
+ASO1	ASO1	cerebellum_calbindin	0
+ASO1	ASO1	cerebellum_calbindin	0
+ASO6	ASO6	a_fob	4
+ASO6	ASO6	a_fob	4
+ASO6	ASO6	a_fob	4
+ASO6	ASO6	a_fob	4
+ASO6	ASO6	max_d_fob	0
+ASO6	ASO6	max_d_fob	0
+ASO6	ASO6	max_d_fob	1
+ASO6	ASO6	max_d_fob	0
+ASO6	ASO6	cord_iba1	1
+ASO6	ASO6	cord_iba1	2
+ASO6	ASO6	cord_iba1	1
+ASO6	ASO6	cord_iba1	0
+ASO6	ASO6	brain_iba1	0
+ASO6	ASO6	brain_iba1	0
+ASO6	ASO6	brain_iba1	0
+ASO6	ASO6	brain_iba1	0
+ASO6	ASO6	cerebellum_iba1	0
+ASO6	ASO6	cerebellum_iba1	1
+ASO6	ASO6	cerebellum_iba1	1
+ASO6	ASO6	cerebellum_iba1	1
+ASO6	ASO6	cerebellum_calbindin	0
+ASO6	ASO6	cerebellum_calbindin	1
+ASO6	ASO6	cerebellum_calbindin	0
+ASO6	ASO6	cerebellum_calbindin	0
+ASO3	Ctrl ASO3	a_fob	1
+ASO3	Ctrl ASO3	a_fob	7
+ASO3	Ctrl ASO3	a_fob	0
+ASO3	Ctrl ASO3	a_fob	7
+ASO3	Ctrl ASO3	max_d_fob	0
+ASO3	Ctrl ASO3	max_d_fob	0
+ASO3	Ctrl ASO3	cord_iba1	0
+ASO3	Ctrl ASO3	cord_iba1	0
+ASO3	Ctrl ASO3	brain_iba1	0
+ASO3	Ctrl ASO3	brain_iba1	0
+ASO3	Ctrl ASO3	cerebellum_iba1	0
+ASO3	Ctrl ASO3	cerebellum_iba1	0
+ASO3	Ctrl ASO3	cerebellum_calbindin	0
+ASO3	Ctrl ASO3	cerebellum_calbindin	0
+ASO2	ASO2	a_fob	1
+ASO2	ASO2	a_fob	0
+ASO2	ASO2	a_fob	0
+ASO2	ASO2	a_fob	1
+ASO2	ASO2	max_d_fob	0
+ASO2	ASO2	max_d_fob	0
+ASO2	ASO2	max_d_fob	0
+ASO2	ASO2	max_d_fob	0
+ASO2	ASO2	cord_iba1	0
+ASO2	ASO2	cord_iba1	1
+ASO2	ASO2	cord_iba1	1
+ASO2	ASO2	brain_iba1	0
+ASO2	ASO2	brain_iba1	0
+ASO2	ASO2	brain_iba1	0
+ASO2	ASO2	brain_iba1	0
+ASO2	ASO2	cerebellum_iba1	0
+ASO2	ASO2	cerebellum_iba1	0
+ASO2	ASO2	cerebellum_iba1	1
+ASO2	ASO2	cerebellum_iba1	0
+ASO2	ASO2	cerebellum_calbindin	0
+ASO2	ASO2	cerebellum_calbindin	0
+ASO2	ASO2	cerebellum_calbindin	0
+ASO2	ASO2	cerebellum_calbindin	0
+ASO5	ASO5	a_fob	2
+ASO5	ASO5	a_fob	2
+ASO5	ASO5	a_fob	2
+ASO5	ASO5	a_fob	0
+ASO5	ASO5	max_d_fob	0
+ASO5	ASO5	max_d_fob	0
+ASO5	ASO5	max_d_fob	0
+ASO5	ASO5	max_d_fob	0
+ASO5	ASO5	cord_iba1	2
+ASO5	ASO5	cord_iba1	1
+ASO5	ASO5	cord_iba1	1
+ASO5	ASO5	cord_iba1	0
+ASO5	ASO5	brain_iba1	0
+ASO5	ASO5	brain_iba1	0
+ASO5	ASO5	brain_iba1	0
+ASO5	ASO5	brain_iba1	0
+ASO5	ASO5	cerebellum_iba1	2
+ASO5	ASO5	cerebellum_iba1	2
+ASO5	ASO5	cerebellum_iba1	2
+ASO5	ASO5	cerebellum_iba1	0
+ASO5	ASO5	cerebellum_calbindin	1
+ASO5	ASO5	cerebellum_calbindin	1
+ASO5	ASO5	cerebellum_calbindin	1
+ASO5	ASO5	cerebellum_calbindin	0
+ASO7	ASO7	a_fob	3
+ASO7	ASO7	a_fob	2
+ASO7	ASO7	a_fob	0
+ASO7	ASO7	a_fob	2
+ASO7	ASO7	max_d_fob	2
+ASO7	ASO7	max_d_fob	1
+ASO7	ASO7	max_d_fob	1
+ASO7	ASO7	max_d_fob	0
+ASO7	ASO7	cord_iba1	3
+ASO7	ASO7	cord_iba1	4
+ASO7	ASO7	cord_iba1	0
+ASO7	ASO7	cord_iba1	3
+ASO7	ASO7	brain_iba1	0
+ASO7	ASO7	brain_iba1	0
+ASO7	ASO7	brain_iba1	0
+ASO7	ASO7	brain_iba1	2
+ASO7	ASO7	cerebellum_iba1	0
+ASO7	ASO7	cerebellum_iba1	2
+ASO7	ASO7	cerebellum_iba1	0
+ASO7	ASO7	cerebellum_iba1	0
+ASO7	ASO7	cerebellum_calbindin	0
+ASO7	ASO7	cerebellum_calbindin	1
+ASO7	ASO7	cerebellum_calbindin	0
+ASO7	ASO7	cerebellum_calbindin	0
+ASO8	ASO8	a_fob	6
+ASO8	ASO8	a_fob	6
+ASO8	ASO8	a_fob	6
+ASO8	ASO8	a_fob	6
+ASO8	ASO8	max_d_fob	0
+ASO8	ASO8	max_d_fob	0
+ASO8	ASO8	max_d_fob	0
+ASO8	ASO8	max_d_fob	0
+ASO8	ASO8	cord_iba1	1
+ASO8	ASO8	cord_iba1	1
+ASO8	ASO8	cord_iba1	2
+ASO8	ASO8	cord_iba1	2
+ASO8	ASO8	brain_iba1	0
+ASO8	ASO8	brain_iba1	0
+ASO8	ASO8	brain_iba1	0
+ASO8	ASO8	brain_iba1	1
+ASO8	ASO8	cerebellum_iba1	1
+ASO8	ASO8	cerebellum_iba1	1
+ASO8	ASO8	cerebellum_iba1	2
+ASO8	ASO8	cerebellum_iba1	1
+ASO8	ASO8	cerebellum_calbindin	1
+ASO8	ASO8	cerebellum_calbindin	0
+ASO8	ASO8	cerebellum_calbindin	1
+ASO8	ASO8	cerebellum_calbindin	0

@@ -1,0 +1,15 @@
+aso	detail	group	x	color	density	angle
+ASO2	parent	active ASO 2	10	#09C009	-1	0
+ASO2-MOE	full 2'MOE	active ASO 2	11	#09C009	20	45
+ASO2-OMe2	2'OMe	active ASO 2	12	#09C009	20	45
+ASO2-MsPA1	MsPA	active ASO 2	13	#09C009	20	45
+ASOC	C	toxic ASOs	2	#3E7A5E	-1	0
+ASOD	D	toxic ASOs	3	#3E7A5E	-1	0
+ASOF	F	toxic ASOs	4	#3E7A5E	-1	0
+saline	saline	saline		#C9C9C9	-1	0
+ASOI	I	toxic ASOs	5	#3E7A5E	-1	0
+ASO1	ASO 1	tolerated ASOs	6	#0909FF	-1	0
+ASOA	A	tolerated ASOs	7	#0099CC	-1	0
+ASOB	B	tolerated ASOs	8	#0099CC	-1	0
+ASOG	G	tolerated ASOs	9	#0099CC	-1	0
+ASOE	E	tolerated ASOs		#0099CC	-1	0

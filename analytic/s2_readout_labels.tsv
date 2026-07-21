@@ -1,0 +1,44 @@
+dataset	readout	label
+Mouse 1000ug 4x 4wk	Brain Iba1	Brain Iba1 IHC Score
+Mouse 1000ug 4x 4wk	Cerebellum Calbindin	Cerebellum Calbindin IHC Score
+Mouse 1000ug 4x 4wk	Cerebellum Iba1	Cerebellum Iba1 IHC Score
+Mouse 1000ug 4x 4wk	Cord Iba1	Cord Iba1 IHC Score
+Mouse 1000ug 4x 4wk	Max dFOB	Max dFOB Score
+Mouse 1000ug 4x 4wk	aFOB	Acute FOB Score
+Mouse 500ug 1x 1wk FOB	a_fob	Acute FOB Score
+Mouse 500ug 1x 1wk FOB	brain_iba1	Brain Iba1 IHC Score
+Mouse 500ug 1x 1wk FOB	cerebellum_calbindin	Cerebellum Calbindin IHC Score
+Mouse 500ug 1x 1wk FOB	cerebellum_iba1	Cerebellum Iba1 IHC Score
+Mouse 500ug 1x 1wk FOB	cord_iba1	Cord Iba1 IHC Score
+Mouse 500ug 1x 1wk FOB	max_d_fob	Max dFOB Score
+Mouse 500ug 1x 1wk qPCR	Cortex Aif1	Cortex Aif1 qPCR
+Mouse 500ug 1x 1wk qPCR	Cortex Cd68	Cortex Cd68 qPCR
+Mouse 500ug 1x 1wk qPCR	Cortex Gfap	Cortex Gfap qPCR
+Mouse 500ug 1x 1wk qPCR	Tsc Aif1	Thoracic Cord Aif1 qPCR
+Mouse 500ug 1x 1wk qPCR	Tsc Cd68	Thoracic Cord Cd68 qPCR
+Mouse 500ug 1x 1wk qPCR	Tsc Gfap	Thoracic Cord Gfap qPCR
+Mouse 500ug 3x 10wk	Max dFOB	Max dFOB Score
+Mouse 500ug 3x 10wk	aFOB 1st ICV	Acute FOB Score After 1st ICV
+Mouse 500ug 3x 10wk	aFOB 2nd ICV	Acute FOB Score After 2nd ICV
+Mouse 500ug 3x 10wk	aFOB 3rd ICV	Acute FOB Score After 3rd ICV
+Mouse 500ug 3x 10wk	brain Iba1	Brain Iba1 IHC Score
+Mouse 500ug 3x 10wk	cerebellum Calbindin	Cerebellum Calbindin IHC Score
+Mouse 500ug 3x 10wk	cerebellum Iba1	Cerebellum Iba1 IHC Score
+Mouse 500ug 3x 10wk	cord Iba1	Cord Iba1 IHC Score
+Mouse 500ug 4x 4wk	Brain Iba1	Brain Iba1 IHC Score
+Mouse 500ug 4x 4wk	Cerebellum Calbindin	Cerebellum Calbindin IHC Score
+Mouse 500ug 4x 4wk	Cerebellum Iba1	Cerebellum Iba1 IHC Score
+Mouse 500ug 4x 4wk	Cord Iba1	Cord Iba1 IHC Score
+Mouse 500ug 4x 4wk	Max dFOB	Max dFOB Score
+Mouse 500ug 4x 4wk	aFOB	Acute FOB Score
+Rat 1mg 3x 4wk	dFOB post 1st IT	dFOB Score After 1st IT
+Rat 1mg 3x 4wk	dFOB post 2nd IT	dFOB Score After 2nd IT
+Rat 1mg 3x 4wk	dFOB post 3rd IT	dFOB Score After 3rd IT
+Rat 3mg 1x 1wk	cortex Aif1	Cortex Aif1 qPCR
+Rat 3mg 1x 1wk	tsc Aif1	Thoracic Cord Aif1 qPCR
+Rat 3mg 1x 8wk	a_fob	Acute FOB Score
+Rat 3mg 1x 8wk	brain_iba1	Brain Iba1 IHC Score
+Rat 3mg 1x 8wk	cerebellum_calbindin	Cerebellum Calbindin IHC Score
+Rat 3mg 1x 8wk	cerebellum_iba1	Cerebellum Iba1 IHC Score
+Rat 3mg 1x 8wk	cord_iba1	Cord Iba1 IHC Score
+Rat 3mg 1x 8wk	max_d_fob	Max dFOB Score

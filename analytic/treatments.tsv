@@ -1,0 +1,26 @@
+aso	display_name	length	target_location	targets_prnp	sequence	target	color	include	citation	comments
+ASO1	ASO 1	17	3'UTR	yes	CTATTTAATGTCAGTCT	Prnp	#0909FF	yes	Raymond 2019	
+ASO1-OMe2	ASO 1 + 2'OMe gap position 2	17	3'UTR	yes	CTATTTAATGTCAGTCT	Prnp	#000000	no		accidentally included in study 21 (intent was to make modified versions of ASO 2, not ASO 1)
+ASO1-MOE	ASO 1 + full 2'MOE	17	3'UTR	yes	CTATTTAATGTCAGTCT	Prnp	#000000	no		accidentally included in study 21 (intent was to make modified versions of ASO 2, not ASO 1)
+ASO2	ASO 2	17	Intron	yes	TTGCAATTCTATCCAAA	Prnp	#09C009	yes	Raymond 2019	
+ASO2-OMe2	ASO 2 + 2'OMe gap position 2	17	Intron	yes	TTGCAATTCTATCCAAA	Prnp	#09C0C0	yes		
+ASO2-MOE	ASO 2 + full 2'MOE	17	Intron	yes	TTGCAATTCTATCCAAA	Prnp	#C009C0	yes		
+ASO2-MsPA1	ASO 2 + MsPA (design 1)	17	Intron	yes	TTGCAATTCTATCCAAA	Prnp	#C0C099	yes		used in transcriptomic study
+ASO2-MsPA2	ASO 2 + MsPA (design 2)	17	Intron	yes	TTGCAATTCTATCCAAA	Prnp	#C0C009	yes		used in survival study
+ASO3	ASO 3	17	None	no	CGCTTATACTAATCATAT	None	#91724A	yes	Raymond 2019	
+ASO4	ASO 4	20	None	no	CCTATAGGACTATCCAGGAA	None	#855E42	yes	Minikel 2020	
+ASO5	ASO 5	20	Intron	yes	TTGCAATTCTATCCAAATAA	Prnp	#C21FB8	yes	Minikel 2020	
+ASO6	ASO 6	20	3'UTR	yes	CTTCTATTTAATGTCAGTCT	Prnp	#41B6C4	yes	Minikel 2020	
+ASO7	ASO 7	20	3'UTR	yes	TAGCCTTTGTACCTTAACCA	Prnp	#4B0082	yes	Reidenbach & Minikel 2019	
+ASO8	ASO 8	17	Exon	yes	GCCAAGGTTCGCCATGA	Prnp	#8A3324	yes	Reidenbach & Minikel 2019	
+ASOA	ASO A	20	Intron	no	ATGTTCATATCCTTTAACCC	ATXN3	#0099CC	yes		
+ASOB	ASO B	20	Intron	no	ATTTTGAATTACAATGCGGT	ATXN2	#0099CC	yes		
+ASOC	ASO C	20	Intron	no	TCACCACAAACTCATGGACT	LRRK2	#3E7A5E	yes		
+ASOD	ASO D	20	3'UTR	no	ACCCTTTCCATGTGAACATT	LRRK2	#3E7A5E	yes		
+ASOE	ASO E	20	Intron	no	CATTTTGAATTACAATGCGG	ATXN2	#0099CC	yes		
+ASOF	ASO F	20	Intron	no	ATGTTAATACTTTTTCCAGC	ATXN3	#3E7A5E	yes		
+ASOG	ASO G	20	Intron	no	GCAAAGACTTTGAAATCTCA	ATXN2	#0099CC	yes		
+ASOH	ASO H	20	Intron	no	AGTGCTATAATTCTTGCTTC	ATXN3		yes		
+ASOI	ASO I	20		no	GTGGCTTTAAAAACTAGGTA	ATXN2	#B46524	yes		tissue lost so not in sequencing data, but present in some qPCR studies
+none	none	0	None	no			#7C7C7C	yes		
+PBS	PBS	0	None	no			#7C7C7C	yes		

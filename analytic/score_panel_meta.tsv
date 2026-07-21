@@ -1,0 +1,26 @@
+dataset	group1	group2	x	color	fill	tranche
+21-01ac	CBH_120_ASO1	CBH_120_PBS				
+21-01ac	CBH_91_ASO1	CBH_91_PBS	1	tolerated	hollow	ASO 1 vs. PBS in uninfected
+21-01ac	CBH_91_ASO2	CBH_91_PBS	4	toxic	hollow	ASO 2 vs. PBS in uninfected
+21-01ac	CBH_94_ASO1	CBH_94_PBS	2	tolerated	hollow	ASO 1 vs. PBS in uninfected
+21-01ac	CBH_94_ASO2	CBH_94_PBS	5	toxic	hollow	ASO 2 vs. PBS in uninfected
+21-01ac	CBH_97_ASO1	CBH_97_PBS	3	tolerated	hollow	ASO 1 vs. PBS in uninfected
+21-01ac	CBH_97_ASO2	CBH_97_PBS	6	toxic	hollow	ASO 2 vs. PBS in uninfected
+21-01ac	RML_120_ASO1	RML_120_PBS	10	tolerated	solid	ASO 1 vs. PBS in infected
+21-01ac	RML_120_PBS	CBH_120_PBS	16	gray	solid	infected vs. uninfected
+21-01ac	RML_149_PBS	CBH_149_PBS	17	gray	solid	infected vs. uninfected
+21-01ac	RML_60_NO	CBH_60_NO	14	gray	solid	infected vs. uninfected
+21-01ac	RML_89_NO	CBH_89_NO	15	gray	solid	infected vs. uninfected
+21-01ac	RML_91_ASO1	RML_91_PBS	7	tolerated	solid	ASO 1 vs. PBS in infected
+21-01ac	RML_91_ASO2	CBH_91_ASO2	11	toxic	solid	ASO 2 vs. PBS in infected
+21-01ac	RML_91_ASO2	RML_91_ASO1				
+21-01ac	RML_91_ASO2	RML_91_PBS				
+21-01ac	RML_94_ASO1	RML_94_PBS	8	tolerated	solid	ASO 1 vs. PBS in infected
+21-01ac	RML_94_ASO2	CBH_94_ASO2				
+21-01ac	RML_94_ASO2	RML_94_ASO1				
+21-01ac	RML_94_ASO2	RML_94_PBS	12	toxic	solid	ASO 2 vs. PBS in infected
+21-01ac	RML_97_ASO1	RML_97_PBS	9	tolerated	solid	ASO 1 vs. PBS in infected
+21-01ac	RML_97_ASO2	CBH_97_ASO2				
+21-01ac	RML_97_ASO2	RML_149_PBS				
+21-01ac	RML_97_ASO2	RML_97_ASO1				
+21-01ac	RML_97_ASO2	RML_97_PBS	13	toxic	solid	ASO 2 vs. PBS in infected

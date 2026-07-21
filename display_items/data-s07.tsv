@@ -1,0 +1,10 @@
+display_name	label	-14 dpi	30 dpi	60 dpi	90 dpi	123 dpi	first_toxic_dpi
+PBS	PBS	—	—	—	—	—	
+ASO 1	tolerated	—	—	—	—	—	
+ASO 4	tolerated	—	—	—	—	—	
+ASO 6	tolerated	—	—	—	—	—	
+ASO 2	toxic	—	—	8	5	6	60
+ASO 8	toxic	—	—	7	6	7	60
+ASO 5	toxic	—	—	—	32	16	90
+ASO 7	toxic	—	—	—	8	8	90
+ASO 3	toxic	—	—	—	—	14	123

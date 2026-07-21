@@ -1,0 +1,49 @@
+animal_no	treatment	sex	inoculation_date	icv_date	dod	dpt	acm1	include	endpoint_comments	acm_comments
+LA1	PBS	F	2017-08-29	2017-12-27	2018-01-23	27	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LA2	PBS	F	2017-08-29	2017-12-27	2018-01-23	27	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LA3	PBS	F	2017-08-29	2017-12-27	2018-01-08	12	TRUE	TRUE	general prion endpoint	counted in all-cause
+LA4	PBS	F	2017-08-29	2017-12-27	2018-01-23	27	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LB1	PBS	F	2017-08-29	2017-12-27	2018-01-13	17	TRUE	TRUE	found dead	counted in all-cause
+LB2	ASO3	F	2017-08-29	2017-12-27	2018-01-08	12	TRUE	TRUE	intercurrent / other	counted in all-cause
+LB3	ASO3	F	2017-08-29	2017-12-27	2018-01-14	18	TRUE	TRUE	general prion endpoint	counted in all-cause
+LB4	PBS	F	2017-08-29	2017-12-27	2018-01-23	27	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LC1	ASO3	F	2017-08-29	2017-12-27	2018-01-23	27	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LC2	ASO3	F	2017-08-29	2017-12-27	2018-01-05	9	TRUE	TRUE	found dead	counted in all-cause
+LC3	ASO3	F	2017-08-29	2017-12-27	2018-01-05	9	TRUE	TRUE	general prion endpoint	counted in all-cause
+LC4	ASO3	F	2017-08-29	2017-12-27	2018-01-06	10	TRUE	TRUE	general prion endpoint	counted in all-cause
+LD1	ASO1	F	2017-08-29	2017-12-27	2018-01-05	9	TRUE	TRUE	general prion endpoint	counted in all-cause
+LD2	ASO1	F	2017-08-29	2017-12-27	2018-01-23	27	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LD3	ASO1	F	2017-08-29	2017-12-27	2018-01-23	27	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LD4	ASO1	F	2017-08-29	2017-12-27	2018-01-05	9	TRUE	TRUE	general prion endpoint	counted in all-cause
+LE1	ASO1	F	2017-08-29	2017-12-27	2018-01-23	27	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LE2	ASO1	F	2017-08-29	2017-12-27	2018-01-23	27	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LE3	ASO5	F	2017-08-29	2017-12-28	2018-01-19	22	TRUE	TRUE	moribund	counted in all-cause
+LE4	ASO5	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LF1		F	2017-08-29		2017-09-04		FALSE	FALSE	intercurrent / other	before treatment group assignment
+LF2	ASO5	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LF3	ASO5	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LF4	ASO5	F	2017-08-29	2017-12-28	2018-01-19	22	TRUE	TRUE	general prion endpoint	counted in all-cause
+LG1	ASO8	F	2017-08-29	2017-12-28	2018-01-03	6	TRUE	TRUE	moribund	counted in all-cause
+LG2	ASO8	F	2017-08-29	2017-12-28	2017-12-28	0	TRUE	TRUE	surgical complications	within one day post-surgery
+LG3	ASO8	F	2017-08-29	2017-12-28	2017-12-28	0	TRUE	TRUE	surgical complications	within one day post-surgery
+LG4	ASO8	F	2017-08-29	2017-12-28	2017-12-28	0	TRUE	TRUE	surgical complications	within one day post-surgery
+LH1	ASO8	F	2017-08-29	2017-12-28	2018-01-04	7	TRUE	TRUE	found dead	counted in all-cause
+LH2	ASO8	F	2017-08-29	2017-12-28	2018-01-04	7	TRUE	TRUE	found dead	counted in all-cause
+LH3	ASO4	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LH4	ASO4	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LI1	ASO4	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LI2	ASO4	F	2017-08-29	2017-12-28	2018-01-19	22	TRUE	TRUE	general prion endpoint	counted in all-cause
+LI3	ASO4	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LI4	ASO4	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LJ1	ASO6	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LJ2	ASO6	F	2017-08-29	2017-12-28	2018-01-09	12	TRUE	TRUE	found dead	counted in all-cause
+LJ3	ASO6	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LJ4	ASO6	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LK1	ASO6	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LK2	ASO6	F	2017-08-29	2017-12-28	2018-01-23	26	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LK3	ASO7	F	2017-08-29	2017-12-29	2018-01-23	25	FALSE	TRUE	intercurrent / other	pre-specified comparator
+LK4	ASO7	F	2017-08-29	2017-12-29	2018-01-04	6	TRUE	TRUE	moribund	counted in all-cause
+LL1	ASO7	F	2017-08-29	2017-12-29	2018-01-05	7	TRUE	TRUE	found dead	counted in all-cause
+LL2	ASO7	F	2017-08-29	2017-12-29	2018-01-05	7	TRUE	TRUE	found dead	counted in all-cause
+LL3	ASO7	F	2017-08-29	2017-12-29	2018-01-04	6	TRUE	TRUE	moribund	counted in all-cause
+LL4	ASO7	F	2017-08-29	2017-12-29	2018-01-05	7	TRUE	TRUE	moribund	counted in all-cause

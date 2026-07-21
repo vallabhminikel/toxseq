@@ -1,0 +1,3 @@
+set_name	direction	n_input	n_input_in_universe	n_signature	n_overlap	expected	log2_fold_enrich	pval
+Nakaya 2018 FUS R495X	up	279	235	44	0	0.6098136352913422	-1.1503174333191595	1
+Nakaya 2018 FUS R495X	down	279	235	21	1	0.2910474168435952	0.9231264205124536	0.25416980223771435
