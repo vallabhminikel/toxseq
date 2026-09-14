@@ -506,7 +506,7 @@ bjab_ccl2 %>%
 tell_user('done.\nCreating Figure 1...')
 if ('figure-1'=='figure-1') {
   
-  resx=300
+  resx=600
   png('display_items/figure-1.png',width=6.5*resx,height=6.5*resx,res=resx)
 
   # Row 1: A (dose-resp survival), B (MRI timeseries)
@@ -1021,7 +1021,7 @@ if ('figure-s1'=='figure-s1') {
   layout(matrix(1:4, nrow=4))
   panel = 1
   
-  resx = 300
+  resx = 600
   stains_ordered = c('ASO', 'PrP', 'GFAP', 'Iba1')
   treatment_order = c('PBS', paste('ASO', 1:8))
   
@@ -1319,7 +1319,7 @@ if ('figure-s2'=='figure-s2') {
 tell_user('done.\nCreating Figure 2...')
 if ('figure-2'=='figure-2') {
   
-  resx=300
+  resx=600
   png('display_items/figure-2.png',width=6.5*resx,height=4.5*resx,res=resx)
 
   # Row 1: A (UMAP), B (volcano: toxic vs PBS), C (DGE scores binary)
@@ -1567,7 +1567,7 @@ if ('figure-2'=='figure-2') {
 tell_user('done.\nCreating Figure 3...')
 if ('figure-3'=='figure-3') {
 
-  resx=300
+  resx=600
   png('display_items/figure-3.png',width=6.5*resx,height=5*resx,res=resx)
 
   # Row 1: A-D volcanoes of RML-infected vs. uninfected at 60, 89, 120, 149 dpi (21-01ac)
@@ -1722,7 +1722,7 @@ if ('figure-3'=='figure-3') {
 tell_user('done.\nCreating Figure 4...')
 if ('figure-4'=='figure-4') {
 
-  resx=300
+  resx=600
   png('display_items/figure-4.png',width=6.5*resx,height=3.25*resx,res=resx)
 
   # Row 1: A (ASO 6 dose-response), B (divalent siRNA dose-response)
@@ -1845,7 +1845,7 @@ if ('figure-4'=='figure-4') {
 tell_user('done.\nCreating Figure S5...')
 if ('figure-s5'=='figure-s5') {
 
-  resx=300
+  resx=600
   png('display_items/figure-s5.png',width=6.5*resx,height=5*resx,res=resx)
   
   alpha_threshold = 0.05
@@ -2062,7 +2062,7 @@ if ('figure-s3'=='figure-s3') {
   col_up   = '#2CA25F'
   col_down = '#8856A7'
 
-  resx = 300
+  resx = 600
   png('display_items/figure-s3.png', width=6.5*resx, height=7*resx, res=resx)
 
   layout(matrix(1:2, nrow=2), heights=c(0.4, 1))
@@ -2140,7 +2140,7 @@ if ('figure-s3'=='figure-s3') {
 tell_user('done.\nCreating Figure S6...')
 if ('figure-s6'=='figure-s6') {
 
-  resx = 300
+  resx = 600
   png('display_items/figure-s6.png', width=9.75*resx, height=3*resx, res=resx)
 
   layout(matrix(c(1,2,3,
@@ -2295,7 +2295,7 @@ if ('figure-s6'=='figure-s6') {
 tell_user('done.\nCreating Figure S4...')
 if ('figure-s4'=='figure-s4') {
   
-  resx=300
+  resx=600
   png('display_items/figure-s4.png',width=6.5*resx,height=4.5*resx,res=resx)
 
   layout_matrix = matrix(c(1,2,
