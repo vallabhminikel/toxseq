@@ -548,7 +548,7 @@ if ('figure-1'=='figure-1') {
   points(0, 1.03, pch=25, bg='black', col='black', cex=0.8)
   points(x=90, y=1.05, pch=25, col='#000000', bg='#000000')
   text(x=90, y=1.05, labels='ASO', pos=3, cex=0.7)
-  legend(x=1, y=0.99, aso2_dr_meta$dose, col=aso2_dr_meta$color, lwd=2, bty='n', cex=0.6,
+  legend(x=1, y=0.99, aso2_dr_meta$dose, col=aso2_dr_meta$color, lwd=2, bty='n', cex=0.8,
          title = 'dose (µg)', title.col='#000000')
   par(xpd=F)
   mtext(LETTERS[panel], side=3, cex=1, adj = -0.15, line = 0.5); panel = panel + 1
@@ -732,13 +732,13 @@ if ('figure-1'=='figure-1') {
   tox_ys    = leg$text$y[surv_legend_prnp$label == 'toxic']
   segments(x0=tranche_x, x1=tranche_x,
            y0=min(tol_ys)-dy, y1=max(tol_ys)+dy, col=tol_col, lwd=2)
-  text(label_x, mean(tol_ys), 'tolerated', srt=90, col=tol_col, cex=0.45, adj=c(0.5, 0.5))
+  text(label_x, mean(tol_ys), 'tolerated', srt=90, col=tol_col, cex=0.60, adj=c(0.5, 0.5))
   segments(x0=tranche_x, x1=tranche_x,
            y0=min(tox_ys)-dy, y1=max(tox_ys)+dy, col=tox_col, lwd=2)
-  text(label_x, mean(tox_ys), 'toxic', srt=90, col=tox_col, cex=0.45, adj=c(0.5, 0.5))
+  text(label_x, mean(tox_ys), 'toxic', srt=90, col=tox_col, cex=0.60, adj=c(0.5, 0.5))
   prnp_x = leg$rect$left + leg$rect$w + px_range * 0.01
-  text(prnp_x, leg$text$y, surv_legend_prnp$targets_prnp, adj=0, cex=0.5, col='#666666')
-  text(prnp_x, max(leg$text$y)+0.1, 'targets\nPrnp', adj=0, cex=0.5, col='#666666')
+  text(prnp_x, leg$text$y, surv_legend_prnp$targets_prnp, adj=0, cex=0.65, col='#666666')
+  text(prnp_x, max(leg$text$y)+0.1, 'targets\nPrnp', adj=0, cex=0.65, col='#666666')
   par(xpd=F)
   mtext(LETTERS[panel], side=3, cex=1, adj = -0.15, line = 0.5); panel = panel + 1
 
@@ -1393,7 +1393,7 @@ if ('figure-2'=='figure-2') {
     mutate(celltype_disp = gsub('[0-9]_', '', celltype)) %>%
     arrange(celltype_disp) -> vol_leg
   legend('topright', legend = vol_leg$celltype_disp, col = vol_leg$celltype_color,
-         pch = 20, bty = 'n', cex = 0.55)
+         pch = 20, bty = 'n', cex = 0.65)
 
   write_supp_table(volcano_plot_data %>%
                      select(gene, log2fold_change, base_mean, pvalue, padj, celltype) %>%
@@ -1526,7 +1526,7 @@ if ('figure-2'=='figure-2') {
   legend('topright', legend = c('down', 'up', 'n.s.'),
          col = c(col_down, col_up, col_nonsig), pch = 20,
          text.col = c(col_down, col_up, col_nonsig),
-         bty = 'n', cex = 0.55, pt.cex = 0.8)
+         bty = 'n', cex = 0.7, pt.cex = 0.8)
   mtext(LETTERS[panel], side=3, cex=1, adj = 0.0, line = 0.5); panel = panel + 1
 
   ### F. Base mean vs L2FC ####
@@ -1550,7 +1550,7 @@ if ('figure-2'=='figure-2') {
   legend('topright', legend = c('down', 'up', 'n.s.'),
          col = c(col_down, col_up, col_nonsig), pch = 20,
          text.col = c(col_down, col_up, col_nonsig),
-         bty = 'n', cex = 0.55, pt.cex = 0.8)
+         bty = 'n', cex = 0.7, pt.cex = 0.8)
   mtext(LETTERS[panel], side=3, cex=1, adj = 0.0, line = 0.5); panel = panel + 1
 
   write_supp_table(dge_properties %>%
@@ -1629,7 +1629,7 @@ if ('figure-3'=='figure-3') {
         mutate(celltype_disp = gsub('[0-9]_', '', celltype)) %>%
         arrange(celltype_disp) -> rml_vol_leg
       legend('topleft', legend = rml_vol_leg$celltype_disp, col = rml_vol_leg$celltype_color,
-             pch = 20, bty = 'n', cex = 0.5)
+             pch = 20, bty = 'n', cex = 0.60)
     }
     mtext(LETTERS[panel], side=3, cex=1, adj = -0.2, line = 0.5); panel = panel + 1
   }
